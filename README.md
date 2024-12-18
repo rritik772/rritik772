@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rritik772/langs)](https://githubtrends.io)
+
 <!--START_SECTION:waka--> <!--END_SECTION:waka-->
 
 <!--
